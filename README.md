@@ -1,2 +1,2 @@
-# profile
-Portfolio profile sample 
+# PROFILE
+Portfolio profile sample static page
